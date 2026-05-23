@@ -1,0 +1,12 @@
+# Jangan push credentials ke repository
+.env
+
+# Output scraping
+output_scraping/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
